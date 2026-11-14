@@ -1,0 +1,4 @@
+olist_data/
+*.duckdb
+powerbi/*.csv
+__pycache__/
