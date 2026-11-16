@@ -1,5 +1,9 @@
 # Olist: Late Deliveries and Repeat Purchases
 
+![Dashboard](powerbi/dashboard.png)
+
+Power BI dashboard: [powerbi/olist_dashboard.pbix](powerbi/olist_dashboard.pbix)
+
 **Question:** Do customers come back, and what drives low ratings on Olist's marketplace?
 
 **Key finding:** Late deliveries cut average ratings from 4.29 to 2.27 stars. Repeat purchases are rare (3.0% of customers), so delivery reliability is the main lever.
